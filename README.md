@@ -31,7 +31,7 @@ $ cd fuel_route_api
 ```text
 DB_NAME=fuel_prices_db
 DB_USER=route_user
-DB_PASSWORD='kapa$$word!'
+DB_PASSWORD='your_password'
 DB_HOST='127.0.0.1'
 DB_PORT=5432
 GOOGLE_MAPS_API_KEY="YOUR_GOOGLE_MAPS_API_KEY"
